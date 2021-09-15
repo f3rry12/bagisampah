@@ -15,4 +15,5 @@ This project was created by me and my 2 other team member ([plexuvoir](https://g
 * Add product to marketplace
 * Delete product
 * Chat WA
+* Google Maps
 * Edit Profile
